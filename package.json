@@ -1,0 +1,20 @@
+{
+  "name": "test-practice",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonickmumba/Test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sonickmumba/Test-practice/issues"
+  },
+  "homepage": "https://github.com/Sonickmumba/Test-practice#readme"
+}
